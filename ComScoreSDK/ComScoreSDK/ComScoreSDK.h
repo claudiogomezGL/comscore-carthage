@@ -18,4 +18,21 @@ FOUNDATION_EXPORT const unsigned char ComScoreSDKVersionString[];
 
 
 #import "CSCore.h"
-
+#import "CSApplicationState.h"
+#import "CSCacheFluster.h"
+#import "CSCensus.h"
+#import "CSKeepAlive.h"
+#import "CSMeasurementDispatcher.h"
+#import "CSNotificationObserver.h"
+#import "CSOfflineCache.h"
+#import "CSStorage.h"
+#import "CSStreamingTag.h"
+#import "CSStreamSense.h"
+#import "CSStreamSenseClip.h"
+#import "CSStreamSenseDefines.h"
+#import "CSStreamSenseDelegate.h"
+#import "CSStreamSensePlaylist.h"
+#import "CSStreamSensePlugin.h"
+#import "CSStreamSensePluginProtocol.h"
+#import "CSStreamSenseState.h"
+#import "CSTaskExecutor.h"
