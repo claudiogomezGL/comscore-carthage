@@ -8,30 +8,30 @@
 
 /* Begin PBXBuildFile section */
 		E92CCA351FC87AF3001A92DD /* ComScoreSDK.h in Headers */ = {isa = PBXBuildFile; fileRef = E92CCA331FC87AF3001A92DD /* ComScoreSDK.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		E92CCA501FC87BA5001A92DD /* CSStreamSenseClip.h in Headers */ = {isa = PBXBuildFile; fileRef = E92CCA3C1FC87BA4001A92DD /* CSStreamSenseClip.h */; };
-		E92CCA511FC87BA5001A92DD /* CSStreamSensePlugin.h in Headers */ = {isa = PBXBuildFile; fileRef = E92CCA3D1FC87BA4001A92DD /* CSStreamSensePlugin.h */; };
-		E92CCA521FC87BA5001A92DD /* CSComScore.h in Headers */ = {isa = PBXBuildFile; fileRef = E92CCA3E1FC87BA4001A92DD /* CSComScore.h */; };
-		E92CCA531FC87BA5001A92DD /* CSMeasurementDispatcher.h in Headers */ = {isa = PBXBuildFile; fileRef = E92CCA3F1FC87BA4001A92DD /* CSMeasurementDispatcher.h */; };
-		E92CCA541FC87BA5001A92DD /* CSStreamSenseDelegate.h in Headers */ = {isa = PBXBuildFile; fileRef = E92CCA401FC87BA4001A92DD /* CSStreamSenseDelegate.h */; };
-		E92CCA551FC87BA5001A92DD /* CSStreamSensePlaylist.h in Headers */ = {isa = PBXBuildFile; fileRef = E92CCA411FC87BA4001A92DD /* CSStreamSensePlaylist.h */; };
-		E92CCA561FC87BA5001A92DD /* CSStreamingTag.h in Headers */ = {isa = PBXBuildFile; fileRef = E92CCA421FC87BA4001A92DD /* CSStreamingTag.h */; };
-		E92CCA571FC87BA5001A92DD /* CSStreamSensePluginProtocol.h in Headers */ = {isa = PBXBuildFile; fileRef = E92CCA431FC87BA4001A92DD /* CSStreamSensePluginProtocol.h */; };
-		E92CCA581FC87BA5001A92DD /* CSTaskExecutor.h in Headers */ = {isa = PBXBuildFile; fileRef = E92CCA441FC87BA4001A92DD /* CSTaskExecutor.h */; };
-		E92CCA591FC87BA5001A92DD /* CSOfflineCache.h in Headers */ = {isa = PBXBuildFile; fileRef = E92CCA451FC87BA4001A92DD /* CSOfflineCache.h */; };
-		E92CCA5A1FC87BA5001A92DD /* CSStreamSense.h in Headers */ = {isa = PBXBuildFile; fileRef = E92CCA461FC87BA4001A92DD /* CSStreamSense.h */; };
-		E92CCA5B1FC87BA5001A92DD /* CSNotificationsObserver.h in Headers */ = {isa = PBXBuildFile; fileRef = E92CCA471FC87BA4001A92DD /* CSNotificationsObserver.h */; };
-		E92CCA5C1FC87BA5001A92DD /* CSTransmissionMode.h in Headers */ = {isa = PBXBuildFile; fileRef = E92CCA481FC87BA4001A92DD /* CSTransmissionMode.h */; };
-		E92CCA5D1FC87BA5001A92DD /* CSSessionState.h in Headers */ = {isa = PBXBuildFile; fileRef = E92CCA491FC87BA4001A92DD /* CSSessionState.h */; };
-		E92CCA5E1FC87BA5001A92DD /* CSStreamSenseDefines.h in Headers */ = {isa = PBXBuildFile; fileRef = E92CCA4A1FC87BA4001A92DD /* CSStreamSenseDefines.h */; };
-		E92CCA5F1FC87BA5001A92DD /* CSStorage.h in Headers */ = {isa = PBXBuildFile; fileRef = E92CCA4B1FC87BA5001A92DD /* CSStorage.h */; };
-		E92CCA601FC87BA5001A92DD /* CSCore.h in Headers */ = {isa = PBXBuildFile; fileRef = E92CCA4C1FC87BA5001A92DD /* CSCore.h */; };
-		E92CCA611FC87BA5001A92DD /* CSKeepAlive.h in Headers */ = {isa = PBXBuildFile; fileRef = E92CCA4D1FC87BA5001A92DD /* CSKeepAlive.h */; };
-		E92CCA621FC87BA5001A92DD /* CSStreamSenseState.h in Headers */ = {isa = PBXBuildFile; fileRef = E92CCA4E1FC87BA5001A92DD /* CSStreamSenseState.h */; };
-		E92CCA631FC87BA5001A92DD /* CSEventType.h in Headers */ = {isa = PBXBuildFile; fileRef = E92CCA4F1FC87BA5001A92DD /* CSEventType.h */; };
+		E92CCA501FC87BA5001A92DD /* CSStreamSenseClip.h in Headers */ = {isa = PBXBuildFile; fileRef = E92CCA3C1FC87BA4001A92DD /* CSStreamSenseClip.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		E92CCA511FC87BA5001A92DD /* CSStreamSensePlugin.h in Headers */ = {isa = PBXBuildFile; fileRef = E92CCA3D1FC87BA4001A92DD /* CSStreamSensePlugin.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		E92CCA521FC87BA5001A92DD /* CSComScore.h in Headers */ = {isa = PBXBuildFile; fileRef = E92CCA3E1FC87BA4001A92DD /* CSComScore.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		E92CCA531FC87BA5001A92DD /* CSMeasurementDispatcher.h in Headers */ = {isa = PBXBuildFile; fileRef = E92CCA3F1FC87BA4001A92DD /* CSMeasurementDispatcher.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		E92CCA541FC87BA5001A92DD /* CSStreamSenseDelegate.h in Headers */ = {isa = PBXBuildFile; fileRef = E92CCA401FC87BA4001A92DD /* CSStreamSenseDelegate.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		E92CCA551FC87BA5001A92DD /* CSStreamSensePlaylist.h in Headers */ = {isa = PBXBuildFile; fileRef = E92CCA411FC87BA4001A92DD /* CSStreamSensePlaylist.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		E92CCA561FC87BA5001A92DD /* CSStreamingTag.h in Headers */ = {isa = PBXBuildFile; fileRef = E92CCA421FC87BA4001A92DD /* CSStreamingTag.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		E92CCA571FC87BA5001A92DD /* CSStreamSensePluginProtocol.h in Headers */ = {isa = PBXBuildFile; fileRef = E92CCA431FC87BA4001A92DD /* CSStreamSensePluginProtocol.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		E92CCA581FC87BA5001A92DD /* CSTaskExecutor.h in Headers */ = {isa = PBXBuildFile; fileRef = E92CCA441FC87BA4001A92DD /* CSTaskExecutor.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		E92CCA591FC87BA5001A92DD /* CSOfflineCache.h in Headers */ = {isa = PBXBuildFile; fileRef = E92CCA451FC87BA4001A92DD /* CSOfflineCache.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		E92CCA5A1FC87BA5001A92DD /* CSStreamSense.h in Headers */ = {isa = PBXBuildFile; fileRef = E92CCA461FC87BA4001A92DD /* CSStreamSense.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		E92CCA5B1FC87BA5001A92DD /* CSNotificationsObserver.h in Headers */ = {isa = PBXBuildFile; fileRef = E92CCA471FC87BA4001A92DD /* CSNotificationsObserver.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		E92CCA5C1FC87BA5001A92DD /* CSTransmissionMode.h in Headers */ = {isa = PBXBuildFile; fileRef = E92CCA481FC87BA4001A92DD /* CSTransmissionMode.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		E92CCA5D1FC87BA5001A92DD /* CSSessionState.h in Headers */ = {isa = PBXBuildFile; fileRef = E92CCA491FC87BA4001A92DD /* CSSessionState.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		E92CCA5E1FC87BA5001A92DD /* CSStreamSenseDefines.h in Headers */ = {isa = PBXBuildFile; fileRef = E92CCA4A1FC87BA4001A92DD /* CSStreamSenseDefines.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		E92CCA5F1FC87BA5001A92DD /* CSStorage.h in Headers */ = {isa = PBXBuildFile; fileRef = E92CCA4B1FC87BA5001A92DD /* CSStorage.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		E92CCA601FC87BA5001A92DD /* CSCore.h in Headers */ = {isa = PBXBuildFile; fileRef = E92CCA4C1FC87BA5001A92DD /* CSCore.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		E92CCA611FC87BA5001A92DD /* CSKeepAlive.h in Headers */ = {isa = PBXBuildFile; fileRef = E92CCA4D1FC87BA5001A92DD /* CSKeepAlive.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		E92CCA621FC87BA5001A92DD /* CSStreamSenseState.h in Headers */ = {isa = PBXBuildFile; fileRef = E92CCA4E1FC87BA5001A92DD /* CSStreamSenseState.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		E92CCA631FC87BA5001A92DD /* CSEventType.h in Headers */ = {isa = PBXBuildFile; fileRef = E92CCA4F1FC87BA5001A92DD /* CSEventType.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		E92CCA651FC87BAD001A92DD /* libcomScore.a in Frameworks */ = {isa = PBXBuildFile; fileRef = E92CCA641FC87BAD001A92DD /* libcomScore.a */; };
-		E92CCA691FC87E22001A92DD /* CSApplicationState.h in Headers */ = {isa = PBXBuildFile; fileRef = E92CCA661FC87E21001A92DD /* CSApplicationState.h */; };
-		E92CCA6A1FC87E22001A92DD /* CSCensus.h in Headers */ = {isa = PBXBuildFile; fileRef = E92CCA671FC87E21001A92DD /* CSCensus.h */; };
-		E92CCA6B1FC87E22001A92DD /* CSCacheFlusher.h in Headers */ = {isa = PBXBuildFile; fileRef = E92CCA681FC87E21001A92DD /* CSCacheFlusher.h */; };
+		E92CCA691FC87E22001A92DD /* CSApplicationState.h in Headers */ = {isa = PBXBuildFile; fileRef = E92CCA661FC87E21001A92DD /* CSApplicationState.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		E92CCA6A1FC87E22001A92DD /* CSCensus.h in Headers */ = {isa = PBXBuildFile; fileRef = E92CCA671FC87E21001A92DD /* CSCensus.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		E92CCA6B1FC87E22001A92DD /* CSCacheFlusher.h in Headers */ = {isa = PBXBuildFile; fileRef = E92CCA681FC87E21001A92DD /* CSCacheFlusher.h */; settings = {ATTRIBUTES = (Public, ); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
